@@ -1,0 +1,15 @@
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.exe
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.deps.json
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.runtimeconfig.json
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.dll
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ref\ReverseArray.dll
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\bin\Debug\net6.0\ReverseArray.pdb
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.AssemblyReference.cache
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfoInputs.cache
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.AssemblyInfo.cs
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.dll
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ref\ReverseArray.dll
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.pdb
+C:\working\TrueCoders Classwork\ReverseArray\ReverseArray\obj\Debug\net6.0\ReverseArray.genruntimeconfig.cache
